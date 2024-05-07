@@ -1,0 +1,10 @@
+"use strict";
+let bool = true;
+let numb = 34;
+let str = "Hello";
+console.log(bool);
+console.log(typeof bool);
+console.log(numb);
+console.log(typeof numb);
+console.log(str);
+console.log(typeof str);
