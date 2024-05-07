@@ -1,0 +1,1 @@
+Undarstanding ts syntax
