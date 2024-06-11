@@ -1,0 +1,11 @@
+"use strict";
+const namesArray = ['Panchita', 'Juanito'];
+console.log("Arrays:");
+console.log(namesArray);
+const arrayReadonly = ['Nepomuseno', 'Rosalina'];
+console.log("Arrays readonly:");
+console.log(arrayReadonly);
+let ourFirstTuple;
+ourFirstTuple = [5, false, "Coding"];
+console.log('Tuple:');
+console.log(ourFirstTuple);
